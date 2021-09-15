@@ -27,5 +27,5 @@ long long solution(int price, int money, int count) {
 
 void main()
 {
-    printf("%f",solution(3,20,4));
+    printf("%d",solution(3,20,4));
 }
